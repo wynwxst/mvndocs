@@ -18,7 +18,7 @@
 //     }
 //   ]
 // }
-const sidebarJsonUrl = 'https://mvndocs.github.io/pages.json'; // Change this to your actual JSON URL
+const sidebarJsonUrl = 'https://wynwxst.github.io/mvndocs/pages.json'; // Change this to your actual JSON URL
 
 // Example markdown file URL (or you could inline the markdown)
 markdownUrl = 'page.md'; // 
