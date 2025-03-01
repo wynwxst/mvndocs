@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "heading": "Getting Started",
+      "subpages": [
+        {"title": "Installation", "url": "installation.html"},
+        {"title": "Quick Start", "url": "quickstart.html"}
+      ]
+    },
+    {
+      "heading": "API Reference",
+      "subpages": [
+        {"title": "Authentication", "url": "auth.html"},
+        {"title": "Endpoints", "url": "endpoints.html"}
+      ]
+    }
+  ]
+}
